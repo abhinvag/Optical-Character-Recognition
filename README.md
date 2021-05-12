@@ -1,3 +1,5 @@
-**Optical Character Recognition **
+# Optical Character Recognition
 
-Run OCR.m or OCR_HANDWRITTEN.m in matlab to execute code.
+```
+Run OCR.m or OCR_HANDWRITTEN.m in matlab.
+```
